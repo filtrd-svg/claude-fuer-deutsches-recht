@@ -42,7 +42,7 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln. 2026-10-16, redaktioneller Einstiegsreview: Eigener Brief und belegte Änderung zuerst; aktuelle Not mit Eilmaßstab verbunden, ohne Leistungsversprechen. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln. 2026-10-16, redaktioneller Einstiegsreview: Eigener Brief und belegte Änderung zuerst; aktuelle Not mit Eilmaßstab verbunden, ohne Leistungsversprechen. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests. 2026-10-21, gezielte Korrektur der Verjährung in Abschnitt 4.2: Fristbeginn nach Paragraf 50 Absatz 4 Satz 1 SGB X ab Unanfechtbarkeit des Erstattungsbescheids statt ab Bekanntgabe; keine neue Ganztextprüfung.",
     "changes": [
       "BVerfG-Anker in Eilrechtsschutz mit heutiger Bedarfsdeckung und Folgenabwägung integriert.",
       "Beispiel zur fehlenden Unterstützung nur konditional und mit Belegplatzhaltern formuliert.",
@@ -50,12 +50,13 @@
       "Leerstart: Sozialbescheid verstehen, Widerspruch oder Eilhilfe wählen.",
       "Eine nachgewiesene Teilzahlung verändert gegenwärtigen Eilbedarf und Antrag; nachgereichte Funktionsangaben verändern die konkrete Leistungsbegründung.",
       "Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln.",
-      "2026-10-16, redaktioneller Einstiegsreview: Eigener Brief und belegte Änderung zuerst; aktuelle Not mit Eilmaßstab verbunden, ohne Leistungsversprechen. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests."
+      "2026-10-16, redaktioneller Einstiegsreview: Eigener Brief und belegte Änderung zuerst; aktuelle Not mit Eilmaßstab verbunden, ohne Leistungsversprechen. Lektüre des Einstiegs, der zugeordneten Anker und der geänderten Stellen; keine neue fachliche Ganztextprüfung oder Live-Modelltests.",
+      "2026-10-21: Verjährungsbeginn in Abschnitt 4.2 von der Bekanntgabe auf die Unanfechtbarkeit des Erstattungsbescheids korrigiert; 30-jährige Frist nach Paragraf 52 Absatz 2 SGB X, Neubeginn durch Zahlungen und Vollstreckungshandlungen sowie Einrede gegenüber dem Gläubiger ergänzt."
     ],
-    "sha256": "badf9479301331ad1c701cc9b372db898f419355d3368f7a99bf59d05f61fab7",
-    "reviewed_on": "2026-10-16",
+    "sha256": "10222f7c747714ac0e921da3df216b7697337ff2eb1c12d2e2feca35974da9a7",
+    "reviewed_on": "2026-10-21",
     "method": "desk_review",
-    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
+    "review_scope": "Redaktioneller Einstieg und Änderungsabgleich; 2026-10-21 gezielt Abschnitt 4.2 zur Verjährung am Normtext von Paragrafen 50 und 52 SGB X sowie an BSG B 11 AL 5/20 R, B 7 AS 17/24 R und B 7 AS 15/24 R (bsg.bund.de) abgeglichen; übriger fachlicher Hauptteil nicht vollständig neu geprüft."
   },
   "selection": {
     "positive": [

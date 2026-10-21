@@ -24,7 +24,7 @@ Krankenkassen fordern manchmal Leistungen zurück, die sie zu Unrecht erbracht h
 - **§ 50 SGB X** – Erstattung zu Unrecht erhaltener Leistungen
 - **§ 24 SGB X** – Anhörung vor Rücknahme
 - **§ 45 Abs. 4 SGB X** – Rücknahmefrist: 2 Jahre nach Kenntnis
-- **§ 50 Abs. 4 SGB X** – Verjährung Erstattungsanspruch: 4 Jahre
+- **§ 50 Abs. 4 SGB X** – Verjährung Erstattungsanspruch: 4 Jahre nach Ablauf des Kalenderjahres, in dem der Erstattungsbescheid unanfechtbar geworden ist
 - BSG B 1 KR 8/15 R (Rückforderung GKV-Leistungen, Vertrauensschutz)
 
 ## Rücknahme-Matrix (§ 45 SGB X)
@@ -55,8 +55,9 @@ Krankenkassen fordern manchmal Leistungen zurück, die sie zu Unrecht erbracht h
 
 ### Schritt 4 – Fristen prüfen
 - § 45 Abs. 4: Rücknahme nur innerhalb 2 Jahre nach Kenntnis der Tatsachen
-- Verjährung Erstattungsanspruch: 4 Jahre (§ 50 Abs. 4 SGB X) ab Entstehung
-- Absolute Verjährungsgrenze: 30 Jahre (§ 199 Abs. 2 BGB)
+- Verjährung Erstattungsanspruch: Die Vierjahresfrist des § 50 Abs. 4 Satz 1 SGB X beginnt mit Ablauf des Kalenderjahres, in dem der Erstattungsbescheid nach § 50 Abs. 3 SGB X unanfechtbar geworden ist, nicht mit der Entstehung des Anspruchs. Hemmung, Ablaufhemmung und Neubeginn richten sich nach § 50 Abs. 4 Satz 2 SGB X sinngemäß nach dem BGB; Zahlungen und Vollstreckungshandlungen können die Frist neu beginnen lassen.
+- 30 Jahre gelten nur nach § 52 Abs. 2 SGB X, wenn während der laufenden Verjährung ein weiterer Verwaltungsakt zur Feststellung oder Durchsetzung unanfechtbar wird; der Erstattungsbescheid selbst und eine Mahnung genügen nicht ([BSG, Urteil vom 04.03.2021 – Az. B 11 AL 5/20 R](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2021/2021_03_04_B_11_AL_05_20_R.html)). § 199 Abs. 2 BGB ist für den Erstattungsanspruch nicht maßgeblich.
+- Die Verjährung ist eine Einrede und muss gegenüber der Krankenkasse als Gläubigerin ausdrücklich erhoben werden.
 
 ### Schritt 5 – Widerspruch und Klage
 - Rücknahmebescheid anfechten: 1-Monats-Widerspruchsfrist (§ 84 SGG)

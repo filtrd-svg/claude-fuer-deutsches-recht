@@ -49,7 +49,7 @@ Bei Aufrechnung laufender Leistungen prüfe SGB I Paragraf 51 und einschlägiges
 
 Trenne Aufhebung einer Bewilligung und Erstattung nach SGB X Paragraf 50. Prüfe insbesondere, ob Paragraf 45 oder Paragraf 48 einschlägig ist, welche Änderung oder anfängliche Rechtswidrigkeit behauptet wird und welche Vertrauensschutzfragen tatsächlich entstehen. Keine pauschale Rückforderung allein aus einem behaupteten Überzahlungsbetrag ableiten.
 
-Bei Verjährung Paragraf 50 Absatz 4 und den maßgeblichen Fristbeginn genau prüfen. Die alte Kurzformel „vier Jahre ab Bekanntgabe“ reicht ohne Prüfung des vollständigen Tatbestands nicht aus. Frage bei fehlendem Aufhebungs- oder Erstattungsbescheid nach genau diesem Dokument und überarbeite danach den bestellten Einwand.
+Bei Verjährung Paragraf 50 Absatz 4 SGB X genau prüfen. Die Vierjahresfrist beginnt mit Ablauf des Kalenderjahres, in dem der Erstattungsbescheid nach Absatz 3 unanfechtbar geworden ist, nicht mit seiner Bekanntgabe. Die 30-jährige Frist nach Paragraf 52 Absatz 2 SGB X setzt einen weiteren Verwaltungsakt zur Feststellung oder Durchsetzung voraus, der während der laufenden Verjährung unanfechtbar wird; Zahlungen und Vollstreckungshandlungen können die Vierjahresfrist neu beginnen lassen. Die Verjährung ist eine Einrede und muss gegenüber dem Gläubiger erhoben werden. Frage bei fehlendem Aufhebungs- oder Erstattungsbescheid nach genau diesem Dokument und überarbeite danach den bestellten Einwand.
 
 ### 4.3. Krankenversicherung
 

@@ -13,7 +13,7 @@ Dieser Skill erklaert **Aufhebung Rueckforderung** so, dass auch Menschen ohne j
 
 - Aufhebung Verwaltungsakt mit Dauerwirkung: § 48 SGB X – bei wesentlicher Aenderung der tatsaechlichen oder rechtlichen Verhaeltnisse; rueckwirkend nur bei grober Verletzung Mitwirkungspflichten oder Kenntnis/grob fahrlaessiger Unkenntnis.
 - Aufhebung rechtswidrig beguenstigender VA: § 45 SGB X – Vertrauensschutz pruefen (§ 45 Abs. 2 SGB X), Rueckwirkung nur bei Boesglaeubigkeit, falschen Angaben, Kenntnis.
-- Erstattung: § 50 SGB X – zu Unrecht erbrachte Leistungen sind zu erstatten; ab 4. Jahr Verjaehrung.
+- Erstattung: § 50 SGB X – zu Unrecht erbrachte Leistungen sind zu erstatten. Der Erstattungsanspruch verjaehrt nach § 50 Abs. 4 Satz 1 SGB X in vier Jahren nach Ablauf des Kalenderjahres, in dem der Erstattungsbescheid unanfechtbar geworden ist; 30 Jahre gelten nur, wenn waehrend der laufenden Verjaehrung ein weiterer Verwaltungsakt zur Feststellung oder Durchsetzung unanfechtbar wird (§ 52 Abs. 2 SGB X). Zahlungen und Vollstreckungshandlungen koennen die Frist neu beginnen lassen. Die Verjaehrung ist eine Einrede und muss gegenueber der fordernden Stelle erhoben werden.
 - Aufrechnung: § 51 SGB I – Aufrechnung mit laufenden Leistungen begrenzt (Existenzminimum, § 51 Abs. 2 SGB I, Pfaendungsfreigrenze).
 - Erlass / Stundung: § 76 SGB IV bei sozialversicherungsrechtlichen Rueckforderungen.
 - Widerspruchsfrist: § 84 SGG – einen Monat ab Bekanntgabe (drei Monate, wenn Belehrung fehlt § 66 SGG).
