@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1.0",
+	"FriendlyName": "KEMURI Horror Kit",
+	"Description": "Gameplay-Systeme fuer KEMURI: Brille mit IR-Kameramodus und T-Menue, Nebel-Direktor, Stalker-KI, Nebelgestalten, Waffen mit Wandkauf, Omikuji-Kiste, Weihe-Schrein und Munitionsmodifikationen, Informant, 3D-Drucker-Station, E-Scooter.",
+	"Category": "Gameplay",
+	"CreatedBy": "KEMURI",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Kemuri",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		}
+	]
+}
